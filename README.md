@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sleeepylala.github.io/ilariaferrauti.cv/](https://sleeepylala.github.io/ilariaferrauti.cv/)
 
-- 📫 How to reach me **ilariaferrauti@work.gmail.com**
+- 📫 How to reach me **ilariaferrauti.work@gmail.com**
 
 - ⚡ Fun fact **I'm just a neewbie trying to do her best!**
 
